@@ -31,11 +31,10 @@ This deep learning project detects and classifies car damage from images using C
 3. **Run the Streamlit app:**:   
    ```commandline
     streamlit run streamlitapp/app.py
+   ```
 
 ## Streamlit UI
 
 <img width="1206" height="1276" alt="image" src="https://github.com/user-attachments/assets/4b9d448e-e075-4dc7-8f44-60f4e33bd061" />
 
-
-   ```
 
